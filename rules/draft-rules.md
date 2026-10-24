@@ -25,5 +25,8 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+Once per round, a player may spend 2 energy to heal one of their units by 2 health, up to its starting health. This gives players a way to protect important units instead of spending all their energy on attacks.
+## Script-generated rules
+
+- A unit that survives combat gains 1 health.
+- A player with no units at the start of a round loses 2 health.
